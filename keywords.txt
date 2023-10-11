@@ -1,0 +1,4 @@
+# Syntax Coloring Map For RobotClass Slider
+
+# Datatypes (KEYWORD1)
+RobotClass_Slider	KEYWORD1
